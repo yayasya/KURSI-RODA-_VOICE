@@ -1,4 +1,5 @@
 /////asuuuuuuuuu
+//////jancukkkkkkkk
 #include <SoftwareSerial.h>
 #include "VoiceRecognitionV3.h"
 VR myVR(11, 12);   // 2:RX 3:TX, you can choose your favourite pins.
